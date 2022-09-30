@@ -1103,10 +1103,29 @@ textarea:focus {
 
 .checkbox-input {
    appearance: none;
+   border-radius: 2px;
 }
 
-.svg-border {
+.svg-border,
+.svg-checkbox {
    position: absolute;
+}
+
+.svg-checkbox {
+   top: 50%;
+   left: 3px;
+   transform: translateY(-50%);
+   opacity: 1;
+}
+
+.checkbox-input:checked + svg {
+   display: none;
+}
+
+
+.checkbox-input:checked {
+   opacity: 1;
+   background-color: var(--accent-color);
 }
 
 

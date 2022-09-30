@@ -11,6 +11,7 @@
 </symbol><symbol id="icon-border" viewBox="0 0 34 32">
 <path stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.1333" d="M31.407 3.556v-1.067h-28.681v27.021h28.681v-25.954zM3.793 1.067h26.547c1.564 0 2.726 1.186 2.726 2.49v24.887c0 1.301-1.163 2.49-2.726 2.49h-26.547c-1.564 0-2.726-1.186-2.726-2.49v-24.887c0-1.303 1.163-2.49 2.726-2.49z"></path>
 </symbol><symbol id="icon-checkbox" viewBox="0 0 42 32">
-<path stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.262 15.206l-0.221-0.211-0.221 0.208-3.085 2.925 0.243 0.234 11.408 10.88 0.221-0.211 24.256-23.139-0.243-0.23-3.043-2.902-0.221 0.211-20.97 19.987-8.125-7.75z"></path>
+<path fill="#fff" style="fill: var(--color1, #fff); stroke: var(--color1, #fff)" stroke="#fff" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="0.64" d="M6.262 15.206l-0.221-0.211-0.221 0.208-3.085 2.925 0.243 0.234 11.408 10.88 0.221-0.211 24.256-23.139-0.243-0.23-3.043-2.902-0.221 0.211-20.97 19.987-8.125-7.75z"></path>
+</symbol>
 </symbol>
 </defs></svg>
