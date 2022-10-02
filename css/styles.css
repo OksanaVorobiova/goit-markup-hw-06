@@ -1152,7 +1152,7 @@ textarea:focus {
 }
 
 .checkbox-icon {
-   left: 0.5px;
+   left: 1px;
 }
 
 .checkbox-input:checked {
